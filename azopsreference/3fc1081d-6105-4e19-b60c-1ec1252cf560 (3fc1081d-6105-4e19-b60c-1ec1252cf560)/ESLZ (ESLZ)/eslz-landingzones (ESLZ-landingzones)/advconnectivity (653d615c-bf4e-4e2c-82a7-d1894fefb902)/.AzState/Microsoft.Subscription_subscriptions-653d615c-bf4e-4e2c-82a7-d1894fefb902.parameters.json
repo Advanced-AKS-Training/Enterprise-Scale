@@ -1,0 +1,15 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "input": {
+      "value": {
+        "Type": "/subscriptions",
+        "Id": "/subscriptions/653d615c-bf4e-4e2c-82a7-d1894fefb902",
+        "Name": "653d615c-bf4e-4e2c-82a7-d1894fefb902",
+        "DisplayName": "advconnectivity",
+        "Children": null
+      }
+    }
+  }
+}
